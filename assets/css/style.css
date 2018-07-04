@@ -1,0 +1,49 @@
+a, #contact, #email-contact {
+	display: inline-block;
+	color: #998;
+}
+
+#contact {
+	display: none; /*remove when contact form ready*/
+}
+
+#contact-active {
+	color: #fff!important;
+}
+
+#home-tree {
+	height: 30%;
+	width: 30%;
+}
+
+#top-card-row {
+	margin-top: 35px;
+}
+
+.card-header {
+	font-size: 35px;
+}
+
+.class-dates {
+	font-size: 20px;
+}
+
+.class-times {
+	font-size: 16px;
+}
+
+.class-links {
+	color: #93C54B;
+}
+
+.class-specs {
+	font-size: 16px;
+}
+
+.contact-top {
+	margin-top: 50px;
+}
+
+#facebook {
+	margin: 10px 0px 0px 10px;
+}
