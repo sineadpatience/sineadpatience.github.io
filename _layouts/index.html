@@ -3,8 +3,8 @@
 <head>
 	<title>Sinead Patience</title>
 
-	<link rel="stylesheet" type="text/css" href="assets/css/sandstone.min.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="/assets/css/sandstone.min.css">
+	<link rel="stylesheet" type="text/css" href={{"../assets/css/styles.css" | relative_url }}>
 
     <!--for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -45,7 +45,7 @@
       <!--</ul>-->
       <!--
     <form class="form-inline my-2 my-lg-0" wtx-context="82094BDE-8ED9-45A2-9EA6-1F44043E79E0">
-      <input class="form-control mr-sm-2" type="text" placeholder="Search" wtx-context="CD27679C-FAFC-4BAD-83DB-AAD22C72F3F9">
+      <input class="form-control MR-sm-2" type="text" placeholder="Search" wtx-context="CD27679C-FAFC-4BAD-83DB-AAD22C72F3F9">
       <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
     </form> -->
 </nav>
@@ -53,13 +53,13 @@
 	<div class="container">
 
 <div class="jumbotron">
-  <h1 class="display-3">Live Well.</h1><img id="home-tree" class="float-right"
-  src="assets/images/tree-silhouette.png" alt="tree">
-  <p class="lead">Be and believe in your best self. Discover resources that make "healthy" FUN.  Empower yourself with knowledge and tools to STAY well, rather than waiting until you're stressed and sick. Through health and vitality, connect to your passions/purpose and share them with your community. Enjoy Life.</p>
+  <h1 class="display-3">{{page.header}}</h1><img id="home-tree" class="float-right"
+                                            src="../assets/images/tree-silhouette.png" alt="tree">
+  <p class="lead">{{page.paragraph1}}</p>
   <hr class="my-4">
-  <p>For in person trainings in Yoga, Qi Gong (moving meditation), and "Lifestyle Medicine", check out my upcoming classes.</p>
+  <p>{{page.paragraph2}}</p>
   <p class="lead">
-    <a class="btn btn-primary btn-lg" id="classes" href="yoga.html" role="button">Upcoming Classes</a>
+    <a class="btn btn-primary btn-lg" id="classes" href="/yoga" role="button">{{page.buttonDescription}}</a>
   </p>
 </div>
 	</div> <!-- container 1 end -->

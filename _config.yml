@@ -1,0 +1,7 @@
+name: SineadPatience
+url: http://sineadpatience.github.io
+repository: sineadpatience/sineadpatience.github.io
+include: ['.htaccess']
+prose:
+  siteurl: "http://sineadpatience.github.io"
+  media: 'assets/images'
