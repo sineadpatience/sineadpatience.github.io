@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2837e221-8bb8-44ca-be30-9da8927254c4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beauty-medicine.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/beauty-medicine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/community-building.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/community-building.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lifestyle-medicine.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/lifestyle-medicine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yoga.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/yoga.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/yoga.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/yoga.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/yoga.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/yoga.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,8 +30,13 @@
       <file leaf-file-name="yoga.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/yoga.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="157" column="16" lean-forward="true" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
+            <state relative-caret-position="238">
+              <caret line="107" column="14" lean-forward="true" selection-start-line="107" selection-start-column="14" selection-end-line="107" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,8 +143,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="421" />
-    <option name="y" value="211" />
+    <option name="x" value="292" />
+    <option name="y" value="191" />
     <option name="width" value="1554" />
     <option name="height" value="778" />
   </component>
@@ -226,15 +225,15 @@
       <workItem from="1533578857829" duration="11055000" />
       <workItem from="1534866967446" duration="75000" />
       <workItem from="1535460333838" duration="606000" />
-      <workItem from="1535931767050" duration="200000" />
+      <workItem from="1535931767050" duration="4652000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23298000" />
+    <option name="totallyTimeSpent" value="27750000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="337" y="169" width="1243" height="622" extended-state="0" />
+    <frame x="234" y="153" width="1243" height="622" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1366965" />
@@ -612,8 +611,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/yoga.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="157" column="16" lean-forward="true" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
+        <state relative-caret-position="238">
+          <caret line="107" column="14" lean-forward="true" selection-start-line="107" selection-start-column="14" selection-end-line="107" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
