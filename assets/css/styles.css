@@ -117,6 +117,10 @@ p.beauty-desc {
 		max-width: 450px;
 		right: 35px;
 	}
+
+	#food-mood-img {
+		max-width: 760px;
+	}
 }
 
 @media screen and (max-width: 545px) {
@@ -135,4 +139,9 @@ p.beauty-desc {
 	.beauty-p-desc {
 		line-height: 1.5em;
 	}
+
+	#food-mood-img {
+		max-width: 540px;
+	}
+
 }
