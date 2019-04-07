@@ -107,6 +107,10 @@ p.beauty-desc {
 	font-style: italic;
 }
 
+#tickets {
+	text-align: center;
+}
+
 @media screen and (max-width: 767px) {
 	.beauty-regime-promo {
 		max-width: 450px;
