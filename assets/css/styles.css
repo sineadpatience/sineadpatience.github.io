@@ -15,6 +15,10 @@ a.nav-link, #contact, #email-contact {
 	color: #fff!important;
 }
 
+#tickets {
+	margin: 15px;
+	margin-bottom: 40px;
+}
 
 #home-tree {
 	height: 30%;
@@ -107,9 +111,6 @@ p.beauty-desc {
 	font-style: italic;
 }
 
-#tickets {
-	text-align: center;
-}
 
 @media screen and (max-width: 767px) {
 	.beauty-regime-promo {
