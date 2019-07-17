@@ -15,10 +15,20 @@ a.nav-link, #contact, #email-contact {
 	color: #fff!important;
 }
 
+#tickets {
+	margin: 15px;
+	margin-bottom: 40px;
+}
 
 #home-tree {
 	height: 30%;
 	width: 30%;
+}
+
+#cupping-btn {
+	color: black;
+	background-color: #98ff98;
+	border-color: #111;
 }
 
 #top-card-row {
@@ -68,8 +78,9 @@ a:visited {
 }
 
 .beauty-description {
-	margin-top: 5%;
+	margin-top: 1%;
 	text-align: justify;
+	padding-top: 40px !important; 
 	font-weight: bold !important;
 }
 
@@ -107,10 +118,15 @@ p.beauty-desc {
 	font-style: italic;
 }
 
+
 @media screen and (max-width: 767px) {
 	.beauty-regime-promo {
 		max-width: 450px;
 		right: 35px;
+	}
+
+	#food-mood-img {
+		max-width: 760px;
 	}
 }
 
@@ -130,4 +146,9 @@ p.beauty-desc {
 	.beauty-p-desc {
 		line-height: 1.5em;
 	}
+
+	#food-mood-img {
+		max-width: 540px;
+	}
+
 }
